@@ -1,0 +1,74 @@
+# system plugins
+configuration-as-code
+postgresql-api
+emailext-template
+localization-zh-cn
+configurationslicing
+ansicolor
+
+# view plugins
+cloudbees-folder
+depgraph-view
+workflow-aggregator
+plugin-usage-plugin
+view-job-filters
+compact-columns
+favorite
+extra-columns
+build-monitor-plugin
+
+# scm plugins
+git-changelog
+gitlab-plugin
+
+# security plugins
+oic-auth
+mask-passwords
+authorize-project
+role-strategy
+
+# job plugins
+job-dsl
+managed-scripts
+build-time-blame
+postbuildscript
+hudson-wsclean-plugin
+jobcacher
+dependency-check-jenkins-plugin
+environment-dashboard
+concurrent-step
+build-user-vars-plugin
+timestamper
+envinject
+ws-cleanup
+markdown-formatter
+job-restrictions
+parameterized-trigger
+build-name-setter
+agent-server-parameter
+
+# pipeline
+pipeline-maven
+pipeline-config-history
+declarative-pipeline-migration-assistant
+pipeline-aggregator-view
+pipeline-utility-steps
+variables-replace-plugin
+http_request
+docker-workflow
+versionnumber
+maven-snapshot-check
+file-operations
+
+# report plugins
+warnings-ng
+sonar
+jacoco
+test-results-aggregator
+junit-attachments
+build-failure-analyzer
+performance
+
+# artifactory plugins
+artifactory
+publish-over-ftp
