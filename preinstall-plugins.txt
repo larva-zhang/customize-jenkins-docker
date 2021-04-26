@@ -5,6 +5,7 @@ emailext-template
 localization-zh-cn
 configurationslicing
 ansicolor
+blueocean
 
 # view plugins
 cloudbees-folder
