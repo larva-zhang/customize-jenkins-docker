@@ -44,6 +44,7 @@ jobs:
         with:
           push: true
           tags: zhanghan0031/customize-jenkins:latest
+                zhanghan0031/customize-jenkins:2.277.4-lts
 
       -
         name: Image digest
