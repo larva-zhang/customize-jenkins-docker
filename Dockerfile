@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.277.4-lts
+FROM jenkins/jenkins:2.263.4-lts
 
 #ENV JENKINS_UC=https://mirrors.tuna.tsinghua.edu.cn/jenkins/updates/stable/update-center.actual.json
 #ENV JENKINS_UC_EXPERIMENTAL=https://mirrors.tuna.tsinghua.edu.cn/jenkins/updates/experimental/update-center.actual.json

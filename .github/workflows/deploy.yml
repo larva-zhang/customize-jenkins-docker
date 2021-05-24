@@ -43,7 +43,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: zhanghan0031/customize-jenkins:2.277.4-lts
+          tags: zhanghan0031/customize-jenkins:2.263.4-lts
 
       -
         name: Image digest
