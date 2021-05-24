@@ -1,6 +1,8 @@
 # system plugins
 configuration-as-code
-postgresql-api
+#postgresql-api
+database-postgresql
+database-mysql
 emailext-template
 localization-zh-cn
 configurationslicing
@@ -9,7 +11,7 @@ blueocean
 
 # view plugins
 cloudbees-folder
-depgraph-view
+#depgraph-view
 workflow-aggregator
 plugin-usage-plugin
 view-job-filters
@@ -34,10 +36,10 @@ managed-scripts
 build-time-blame
 postbuildscript
 hudson-wsclean-plugin
-jobcacher
-dependency-check-jenkins-plugin
-environment-dashboard
-concurrent-step
+#jobcacher
+#dependency-check-jenkins-plugin
+#environment-dashboard
+#concurrent-step
 build-user-vars-plugin
 timestamper
 envinject
@@ -59,7 +61,7 @@ http_request
 docker-workflow
 versionnumber
 maven-snapshot-check
-#file-operations
+file-operations
 
 # report plugins
 warnings-ng
