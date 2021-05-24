@@ -16,7 +16,7 @@ view-job-filters
 compact-columns
 favorite
 extra-columns
-build-monitor-plugin
+#build-monitor-plugin
 
 # scm plugins
 git-changelog
@@ -59,7 +59,7 @@ http_request
 docker-workflow
 versionnumber
 maven-snapshot-check
-file-operations
+#file-operations
 
 # report plugins
 warnings-ng
