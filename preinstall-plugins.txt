@@ -18,7 +18,8 @@ view-job-filters
 compact-columns
 favorite
 extra-columns
-#build-monitor-plugin
+build-monitor-plugin
+pipeline-graph-view
 
 # scm plugins
 git-changelog
@@ -71,6 +72,7 @@ test-results-aggregator
 junit-attachments
 build-failure-analyzer
 performance
+testng-plugin
 
 # artifactory plugins
 artifactory
