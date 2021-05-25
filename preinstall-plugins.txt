@@ -1,6 +1,6 @@
 # system plugins
 configuration-as-code
-#postgresql-api
+postgresql-api
 database-postgresql
 database-mysql
 emailext-template
