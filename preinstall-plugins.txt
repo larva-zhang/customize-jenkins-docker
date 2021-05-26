@@ -24,7 +24,7 @@ pipeline-graph-view
 # scm plugins
 git-changelog
 gitlab-plugin
-git-forensics-plugin
+git-forensics
 
 # security plugins
 oic-auth
