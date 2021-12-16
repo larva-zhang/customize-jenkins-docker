@@ -6,7 +6,6 @@ database-mysql
 emailext-template
 localization-zh-cn
 configurationslicing
-ansicolor
 blueocean
 
 # view plugins
@@ -38,7 +37,6 @@ managed-scripts
 build-time-blame
 postbuildscript
 hudson-wsclean-plugin
-#jobcacher
 #dependency-check-jenkins-plugin
 #environment-dashboard
 #concurrent-step
@@ -67,7 +65,6 @@ file-operations
 
 # report plugins
 warnings-ng
-sonar
 jacoco
 test-results-aggregator
 junit-attachments
@@ -78,3 +75,7 @@ testng-plugin
 # artifactory plugins
 artifactory
 publish-over-ftp
+
+# tool plugins
+sonar
+ant
